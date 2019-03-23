@@ -1,0 +1,52 @@
+Food database sites
+https://www.allrecipes.com/recipes/
+https://developer.edamam.com/edamam-nutrition-api
+https://www.programmableweb.com/category/food/apis?category=20048
+https://www.kaggle.com/hugodarwood/epirecipes
+https://www.google.co.uk/search?q=average+number+of+reviews+on+epicurious&rlz=1C1GCEA_enGB807GB807&oq=average+number+of+reviews+on+epicurious&aqs=chrome..69i57.6388j0j4&sourceid=chrome&ie=UTF-8&safe=active&ssui=on
+https://developer.yummly.com/
+https://spoonacular.com/food-api
+https://www.wpultimaterecipe.com/docs/user-ratings/
+http://www.cs.cornell.edu/~ylongqi/paper/YangYumme.pdf
+http://cl.indiana.edu/~skuebler/papers/epi13.pdf
+https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=streams&referringId=14452&referringContentType=Recipe%20Hub&clickId=st_recipes_mades
+
+Retail User Story Ideas
++ what about food outside of fridge?
++ but then people have to have the fridge? enter pt for those who dont
++ calc expiration based on average days and product, look of product, what?
++ what can the fridge actually see right now?
++ fridge is your friend, prompts you in the store, once in the store Waitrose connects to you and can recommend whatever
++ facial recognition loyalty program
++ why do you want your sentiments to be analyzed as a customer?
++ how can we get GPS so specific that it directs you to the correct place? Save virtual images of the store instead? (virtual mapping?)
++ the end part sounds like amazon go with pulling off object and puttin git back on...this is OK, right? but how close are we to pinpointing user grabbing products that closely?
++ bodylogical to promote you to purchase certain items based on daily experiences (smart watch) 
++ more personalized than a marketing campaign (personalized meal recs, change of production
++ allergies, etc
++ meal recs
++ beacon tells fridge app to check if anythings needed, if not, no notification, if so, notifies
++ virtual assistant connected to everything
+
+Challenges
++ AR mapping (GPS, virtual image world saved)
++ Smart Cooler recognize expiry, foods not in fridge
++ People giving up all their data
++ 
+
+Metrics
++ How do you measure impact? And on whom? comapny, consumer, society, imapct good great same???
++ What are the pain points in purchasing food?
+    +purchasing food when you need it
+    +quick checkout and quick store guide
+    +trusting food, fitting with your health and desires
+
+What is the data architecture?
++ Food from Store
++ Food from fridge
++ User profile/loyalty
++ Catalog of 3D Printable Objects
+
+SmartFridge, Facial Recognition Loyalty Program, AR aspect (mapping & product info), Seamless Checkout (video)
+
+at some point alphago programmers didnt understand why it was doing what it iwas doing...it had intuituion becsaue ythere are so many types of moves possible
